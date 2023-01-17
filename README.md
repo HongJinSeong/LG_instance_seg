@@ -3,7 +3,7 @@ LG instance segmentation
 
  <입자 형태 분석 모델 개발 해커톤>
 
-mmsegmentation을 통한 2번째 대회
+mmdetection을 통한 2번째 대회
 
 instance segmentation 이여서 좌표값을 내야했음
 
